@@ -1,0 +1,74 @@
+!title Joy to the World (Bells)
+!bpm 100
+
+' Audrey G- B-
+' Heitor G- B-
+' Jacob C D
+' Monique C D
+' Aiden E
+' Joshua E
+' Jocelyn F G
+' Gabby F G
+' Heloisa B c
+' Lucas B c
+' Nathan A d
+' Gabriela / Jasmine A d
+
+cG GC AE EB-
+cG GC AE EB-
+cG GC AE EB-
+FD AFD BAFDB- dBAFDB-G-32 -
+
+cE16 BG12 AF4 GE24 FD EC16 DB-16 C24
+G AF24 AF BD24 BD cE GD AE
+cE cE BG AF GE GE12 FD4 EC
+cE cE BG AF GE GE12 FD4 EC
+EC EC EC EC EC4 FD4 GE24 
+'GE EC4 FD4 GE
+FD4 EC4 DB- DB- DB- DB-4 EC4 FD24 
+'FD DB-4 EC4 FD
+EC4 DB-4 C cE16 AF GE12 FD4 EC FD EC16 DB-16 C32
+
+cG GC AE EB-
+cG GC AE EB-
+cG GC AE EB-
+FD AFD BAFDB- dBAFDB-G-32 -
+
+cE16 BG12 AF4 GE24 FD EC16 DB-16 C24
+G AF24 AF BD24 BD cE GD AE
+cE cE BG AF GE GE12 FD4 EC
+cE cE BG AF GE GE12 FD4 EC
+EC EC EC EC EC4 FD4 GE24 
+'GE EC4 FD4 GE
+FD4 EC4 DB- DB- DB- DB-4 EC4 FD24 
+'FD DB-4 EC4 FD
+EC4 DB-4 C cE16 AF GE12 FD4 EC FD EC16 DB-16 C32
+
+cG GC AE EB-
+cG GC AE EB-
+cG GC AE EB-
+cGEC32
+
+
+!transpose -2
+'c# f#
+'dD16 c#D12 BD4 AD24 GE F#D16 EC#16 D24
+'A BG24 BG c#G24 c#G dF#24
+'dF# dF# c#A BG AF# AF#12 GE4 F#D
+'dF# dF# c#A BG AF# AF#12 GE4 F#D
+'F#D F#D F#D F#D F#D4 GE4 AF#24
+'GE4 F#D4 EC# EC# EC# EC#4 F#D4 GE24
+'F#D4 EC#4 D dF#16 BG AF#12 GE4 F#D GE F#D16 EC#16 D32 
+
+' C Eminor F C F C G AMinor F  
+' C G AMinor F x2
+
+' C Somewhere
+' EMinor Over the rainbow
+' F Way up
+' C High
+' F There's a
+' C Place that I've heard of
+' G Once in a lulla-
+' AMinor -by
+' F Ooooh

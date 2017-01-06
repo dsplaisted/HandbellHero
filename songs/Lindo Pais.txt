@@ -1,0 +1,11 @@
+!Title Lindo Pais
+!bpm 90
+B- C D E24 D E A G E D C A-24
+C E F G24 A G E C E D40
+B- C D E24 D E A G E D C A-24
+B- C D E24 F E D C D C40
+
+G A B c24 B B A G A G E C24
+G A B c24 B B A G E D40
+G G G e24 d d c A c G E C24
+B- C D E A G E D C A- B- C40

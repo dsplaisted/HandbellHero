@@ -1,0 +1,124 @@
+' Composition from http://www.music-scores.com/midi.php?sheetmusic=Pachelbel_Canon_handbells
+
+!Title Pachelbels's Canon
+!BeatsPerMinute 65
+!LookAhead 32
+!Transpose -5
+
+c16 G16 A16 E16 F16 C16 F16 G16     ' 1 - 4
+ec16 dG16 cA16 BE16 AF16 GC16 AF16 BG16         ' 5 - 8
+
+' 9-10
+e e g f ec c e d \-64
+c16 dB16 A16 BGE16
+
+' 11-12
+cA A c g f a g f \-64
+F16 GEC16 AF16 BG16
+
+' 13
+e e gB fB \-32
+c4 B4 c4 E4 dG16
+
+' 14
+ec ec ge g4 a4 \-8 d \-32
+A16 BE16
+
+' 15
+f4 e4 d4 f4 e4 d4 c4 B4 \-32
+cA A c g \-32
+F16 GEC16
+
+' 16
+AF4 G4 F4 E4 \-16
+f a gd fG \-32
+c16 BG16
+
+'17
+e e gB fB \-16 d16 \-32
+c4 B4 c4 E4 G4 G4 -
+
+'18
+e ec ge d \-32
+A16 BE16 \-32
+c4 c4 - - g4 a4
+
+'19
+f4 e4 d4 f4 e4 d4 c4 B4 \-32
+cA A c g \-32
+F16 GEC16
+
+'20
+AF4 G4 F4 E4 \-16
+f a gD fG \-32
+c16 BG16
+
+'21
+c16 \
+e4 e2 f2 g4 e2 f2 gd f \-16
+B2 G2 A2 B2 c2 d2 e2 f2
+
+'22
+A16 E16 \-32
+e e g dG \-32
+c4 c2 d2 c4 E2 F2 G2 A2 G2 F2 -
+
+'23
+F16 C16 \-32
+f d ec c \-32
+cA4 c2 B2 A4 G2 F2 G2 F2 E2 F2 G2 A2 B2 c2
+
+'24
+F16 G16 \-32
+A4 c2 B2 A\ c4 d2 c2 B2 c2 d2 e2 B \ f2 e2 f2 g2
+
+'25
+e12 e4 \-16 c c
+G16 \ g \ e4 f4 e4 d4
+
+'26
+e e \-16 c12 c4 c4 d4 cG4 B4 \-32
+A16 gE16
+
+'27
+F16 C16 \-32
+- d \-16
+A12 A4 ecG cG
+
+'28
+AF16 G16 \-32
+- c16 G
+
+'29
+e16 G16 \-32
+c ec4 ge4 ge4 fa4 B \ ge4 fd4
+
+'30
+A16 gE16 \-32
+ec12 ec4 ec4 fd4 ecG4 dB4
+
+'31
+F16 GC16 \-32
+cA12 cA4 \-16
+f d ec cBG
+
+'32
+AF16 G16 \-32
+- c16 B
+
+'33
+e16 dG16 \-32
+c c16 B
+
+'34
+cA16 \ - e BE16 \ g G
+
+'35
+AF16 \ f d GC16 \ e c
+
+'36
+AF16 G16 \-32
+- c16 B
+
+' 37 - 41
+ec16 dG16 cA16 BE16 fF16 eC16 dF16 gG16 eGC32

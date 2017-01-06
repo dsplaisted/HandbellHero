@@ -1,0 +1,8 @@
+' Mary had a little lamb
+E D C D E E E16
+' Little lamb, little lamb
+D D D16 E E E16
+' Mary had a little lamb, its
+E D C D E E E E
+' fleece was white as snow
+D D E D C32

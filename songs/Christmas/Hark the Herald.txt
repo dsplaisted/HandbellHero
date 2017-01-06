@@ -1,0 +1,160 @@
+!Title Hark the Herald
+!Transpose -5
+!BeatsPerMinute 60
+!LookAhead 24
+!LookBehind 4
+
+' -Aiden
+' Lucas
+' -Heitor
+' -Heloisa
+' -Julia
+' -Audrey?
+' -Joshua
+' -Jacob
+' -Jocelyn
+' -Gabriela
+' Nathan
+' -Monique 
+' Gabi
+' Bella - Clarinet
+' Jasmine - Flute
+' -Brian
+
+' G- (2/2) B- (27/30)
+' (Audrey), Heitor
+
+' C# (0, 2), D (44/64)
+' Miguel
+
+' C (42/26), c (24, 24)
+' Jacob
+
+' C (42/26), D (44/64)
+' Monique
+
+' E (75, 16), A- (0, 34)
+' (Aiden), Joshua
+
+' F (36, 0), F# (0, 34), G# (0, 4) 
+' Jocelyn, (Gabi)
+
+' G (43, 48), e (0, 12)
+' (Brian), Gabriela
+
+' B (14, 38), c (24, 24)
+' Lucas
+
+' C# (0, 2), B (14, 38)
+' Heloisa
+
+' A (29, 36), d (2, 32)
+' Nathan, (Jasmine)
+
+' Audrey G- B-
+' -Heitor G- B-
+' C#
+' C#
+' -Jacob C D
+' -Monique C D
+' Aiden E A-
+' -Joshua E A-
+' -Jocelyn F# G
+' Gabi F# G
+' (Bella) G# e
+' -Gabriela G# e
+' -Heloisa B c
+' -Lucas B c
+' -Nathan A d
+' -Jasmine A d
+
+
+
+
+' ?? G- A-
+' Aiden B- C#
+' Audrey C# D
+' Joshua F# E4
+' Jocelyn G G#
+' Lucas B c
+' Adam A d
+
+' Beth Ann G- A-
+' Monique B- C
+' Jacob C D
+' Nathan F# E
+' Julia G G#
+' Heitor A B
+' Raquel c e
+' Fabio d e
+
+
+
+' Intro
+G4 F4 E4 D4 G4 F4 E4 D4 G4 F4 E4 D4 G4 F4 E4 D4
+
+' 3: Hark the herald
+G \ -4 F4 c \ E4 D4 c12 \ G4 F4 E4 BD4
+' 4: angels sing
+c \ G4 F4 e \ E4 D4 e \ G4 F4 d \ E4 D4
+' 5: glory to the
+g \ G4 F4 g \ E4 D4 g12 \ G4 A4 B4 fG4
+' 6: newborn king
+ec d \ B4 G4 ec16
+' 7: Peace on earth, and
+G \ -4 F4 c \ E4 D4 c12 \ G4 F4 E4 BD4
+' 8: Mercy mild
+c \ G4 F4 e \ E4 D4 e\ G4 F4 d \ E4 D4
+' 9: God and sinners reconciled
+gdBGD dBGD dBGD12 B4 B \D4 E4 AF# G16
+' 11: Joyful all ye nations rise
+g g g c fdA ecG ecG dBG
+' 13: Join the triumph of the skies
+g g g c fcA ec4 fd4 ecG dBG
+' 15: With angelic host proclaim
+a12 ag4 af ge fd ec# f16
+' 17: Christ is born in Bethlehem
+dBG e4 f4 gec12 c4 c dB ecG16
+' 19: Hark the herald
+a12 \ -4 g4 f4 ae4 a \ d4 c4 gB
+' 20: angels sing
+f \ A4 d4 e \ A4 c#4 fdA16
+' 21: Glory to the
+dBG e4 f4 \-8 BG gecG12 c4
+' 22: newborn king
+cA dBG cGEC16
+
+
+' Intro
+G4 F4 E4 D4 G4 F4 E4 D4 G4 F4 E4 D4 G4 F4 E4 D4
+
+' 3: Hark the herald
+G \ -4 F4 c \ E4 D4 c12 \ G4 F4 E4 BD4
+' 4: angels sing
+c \ G4 F4 e \ E4 D4 e \ G4 F4 d \ E4 D4
+' 5: glory to the
+g \ G4 F4 g \ E4 D4 g12 \ G4 A4 B4 fG4
+' 6: newborn king
+ec d \ B4 G4 ec16
+' 7: Peace on earth, and
+G \ -4 F4 c \ E4 D4 c12 \ G4 F4 E4 BD4
+' 8: Mercy mild
+c \ G4 F4 e \ E4 D4 e\ G4 F4 d \ E4 D4
+' 9: God and sinners reconciled
+gdBGD dBGD dBGD12 B4 B \D4 E4 AF# G16
+' 11: Joyful all ye nations rise
+g g g c fdA ecG ecG dBG
+' 13: Join the triumph of the skies
+g g g c fcA ec4 fd4 ecG dBG
+' 15: With angelic host proclaim
+a12 ag4 af ge fd ec# f16
+' 17: Christ is born in Bethlehem
+dBG e4 f4 gec12 c4 c dB ecG16
+' 19: Hark the herald
+a12 \ -4 g4 f4 ae4 a \ d4 c4 gB
+' 20: angels sing
+f \ A4 d4 e \ A4 c#4 fdA16
+' 21: Glory to the
+dBG e4 f4 \-8 BG gecG12 c4
+' 22: newborn king
+cA dBG cGEC16
