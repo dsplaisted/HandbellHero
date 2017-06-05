@@ -1,6 +1,6 @@
 # Handbell Hero
 
-![Handbell Hero Screenshot](images/Handbell Hero Screenshot - Pachelbels Canon.png)
+![Handbell Hero Screenshot](images/Handbell%20Hero%20Screenshot%20-%20Pachelbels%20Canon.png)
 
 ## Installation
 
