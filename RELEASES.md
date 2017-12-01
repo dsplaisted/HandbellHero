@@ -1,5 +1,9 @@
 RELEASES.md
 
+# 0.3.0
+
+- Add ability to include note assignments in songs.  Syntax: `!Assign G- G#- A- : Daniel`
+
 # 0.2.0
 
 - Changed color of some notes (B, G, D#) to make more visible on different screens
