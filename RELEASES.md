@@ -1,8 +1,13 @@
 RELEASES.md
 
+# 0.4.0
+- Fixed crash when there are note assignments for notes not used in song
+- Fixed showing notes as flat in note assignments
+- Show note names in notes used screen
+
 # 0.3.0
 
-- Add ability to include note assignments in songs.  Syntax: `!Assign G- G#- A- : Daniel`
+- Added ability to include note assignments in songs.  Syntax: `!Assign G- G#- A- : Daniel`
 
 # 0.2.0
 
